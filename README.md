@@ -1,4 +1,4 @@
-# Hi there, I'm [Al Shakib](https://alshakib.dev). <img src="assets/wave.gif" width="28px"> Nice to meet you!
+# Hi there, I'm [Al Shakib](https://alshakib.dev). <img src="https://raw.githubusercontent.com/AlShakib/AlShakib/master/assets/wave.gif" width="28px"> Nice to meet you!
 
 I’m an **Android application developer** and a **Linux enthusiast** from Dhaka, Bangladesh. I’m currently a student at [International University of Business Agriculture and Technology](https://iubat.edu) where I study computer science and engineering.
 
