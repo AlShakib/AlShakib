@@ -1,4 +1,4 @@
-# Hi there, I'm [Al Shakib](https://alshakib.dev). <img src="assets/wave.gif" width="28px"> Nice to meet you!
+# Hi there, I'm [Al Shakib](https://alshakib.dev). <img src="https://raw.githubusercontent.com/AlShakib/AlShakib/master/assets/wave.gif" width="28px"> Nice to meet you!
 
 I’m an **Android application developer** and a **Linux enthusiast** from Dhaka, Bangladesh. I’m currently a student at [International University of Business Agriculture and Technology](https://iubat.edu) where I study computer science and engineering.
 
@@ -49,6 +49,7 @@ I have a blog too. You can find my articles on my website at [alshakib.dev](http
   <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white">
   <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white">
+  <img src="https://img.shields.io/badge/hugo-%230083c0.svg?&style=for-the-badge&logo=hugo&logoColor=white">
   <img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white">
   <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
 </div>
