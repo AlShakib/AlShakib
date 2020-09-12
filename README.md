@@ -57,7 +57,7 @@ Besides all of this computer nerd stuff, I **like to read books** *(fan of [Saty
 - **Facebook:** [@shakib.f](https://www.facebook.com/shakib.f)
 - **Somewhere else?** Probably @AlShakib
 
-## :chart_with_upwards_trend: My GitHub stats is here...
+## :chart_with_upwards_trend: My GitHub stats are here...
 
 <div align="center">
   <a href="https://github.com/AlShakib">
