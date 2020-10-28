@@ -64,6 +64,6 @@ Besides all of this computer nerd stuff, I **like to read books** *(fan of [Saty
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=AlShakib&count_private=true&include_all_commits=true&show_icons=true&line_height=27" alt="Shakib's GitHub Stats" />
   </a>
   <a href="https://github.com/AlShakib">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlShakib&hide=javascript,css,html,php" alt="Shakib's top languages" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlShakib&exclude_repo=sirius" alt="Shakib's top languages" />
   </a>
 </div>
