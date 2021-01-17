@@ -1,6 +1,6 @@
 # Hi there, I'm [Al Shakib](https://alshakib.dev). <img src="https://raw.githubusercontent.com/AlShakib/AlShakib/master/assets/wave.gif" width="28px"> Nice to meet you!
 
-I’m an **Android application developer** and a **Linux enthusiast** from Dhaka, Bangladesh. I’m currently an intern at [KP Software Solutions](https://www.kpsoftwaresolutions.org).
+I’m an **Android application developer** and a **Linux enthusiast** from Dhaka, Bangladesh.
 
 ## :muscle: I can write code with...
 
