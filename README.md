@@ -1,4 +1,4 @@
-# Hi there, <img src="https://raw.githubusercontent.com/AlShakib/AlShakib/master/assets/wave.gif" width="28px"> I'm [Al Shakib](https://alshakib.dev).
+# <img src="https://raw.githubusercontent.com/AlShakib/AlShakib/master/assets/wave.gif" width="28px"> Hi there, I'm [Al Shakib](https://alshakib.dev).
 
 I’m an **Android application developer** and a **Linux enthusiast** from Dhaka, Bangladesh.
 
