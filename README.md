@@ -3,9 +3,3 @@
 I’m an **Android Application Developer** and a **Linux Enthusiast** from Earth, The Solar System, Milky Way Galaxy.
 
 Nice to meet you!
-
-<div align="center">
-  <a href="https://github.com/AlShakib">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=AlShakib&count_private=true&include_all_commits=true&show_icons=true&line_height=27&hide_title=true&hide_border=true" alt="Shakib's GitHub Stats" />
-  </a>
-</div>
